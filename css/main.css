@@ -316,6 +316,10 @@ textarea {
 ==========================================================================================
  */
 
+ * {
+   box-sizing: border-box;
+ }
+
  body {
    height: 300vh;
    font-family: fortescue-regular, sans-serif;
